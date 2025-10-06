@@ -1,0 +1,7 @@
+Pipeline run at 2025-10-06T19:14:15.713852
+Input file: creditcard.csv
+Rows processed: 284807
+Features used: 30
+Detected anomalies (final): 11137
+
+Models trained: isoforest, lof_fitted
